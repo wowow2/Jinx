@@ -1,0 +1,2927 @@
+                                               CREATED BY
+                                       Christian Linke | Alex Yee
+
+
+                                                      EPISODE 1.08
+
+                                                   “Oil and Water”
+
+Disowned heir Mel and her visiting mother trade combat tactics.
+Caitlyn and Vi forge an unlikely alliance. Jinx undergoes a
+startling change.
+
+
+                                            WRITTEN BY:
+                                   Ben St. John | Mollie St. John
+
+
+                                     DIRECTED BY:
+                    Pascal Charrue | Jérôme Combe | Arnaud Delord
+
+
+                                              ORIGINAL BROADCAST:
+                                               November 20, 2021
+
+   NOTE: This is a transcription of the spoken dialogue and audio, with time-code reference, provided without cost by 8FLiX.com
+   for your entertainment, convenience, and study. This version may not be exactly as written in the original script; however, the
+                     intellectual property is still reserved by the original source and may be subject to copyright.
+
+
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                 EPISODE CAST
+
+Kevin Alejandro                 ...   Jayce (voice)
+JB Blanc                        ...   Bolbok (voice)
+Kimberly Brooks                 ...   Sky (voice)
+Remy Hii                        ...   Mr. Kiramman (voice)
+Josh Keaton                     ...   Salo / Gorgeous Man (voice)
+Katie Leung                     ...   Caitlyn (voice)
+Erica Lindbeck                  ...   Elora (voice)
+Harry Lloyd                     ...   Viktor (voice)
+Abigail Marlowe                 ...   Mrs. Kiramman (voice)
+Dave B. Mitchell                ...   Hoskel (voice)
+Toks Olagundoye                 ...   Mel Medarda (voice)
+Ella Purnell                    ...   Jinx (voice)
+Reed Shannon                    ...   Ekko (voice)
+Jason Spisak                    ...   Silco (voice)
+Hailee Steinfeld                ...   Vi (voice)
+Brett Tucker                    ...   Singed / Sergeant Billingsworth (voice)
+Amirah Vann                     ...   Sevika (voice)
+Mick Wingert                    ...   Heimerdinger (voice)
+
+
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   Page |1
+
+
+                                             1
+                                   00:00:15 --> 00:00:18
+                                    [foreboding music]
+
+                                             2
+                                   00:00:24 --> 00:00:27
+                                [foreboding music continues]
+
+                                             3
+                                   00:00:34 --> 00:00:36
+                                        [footsteps]
+
+                                             4
+                                   00:00:38 --> 00:00:40
+                                  [woman] When I was ten,
+
+                                             5
+                                   00:00:40 --> 00:00:42
+                                your grandfather brought me
+                                     to the aftermath
+
+                                             6
+                                   00:00:42 --> 00:00:44
+                                of the Battle of Hildenard.
+
+                                           7
+                                 00:00:44 --> 00:00:49
+                       He offered me a gold coin for every blade
+                              I retrieved from the fallen.
+
+                                             8
+                                   00:00:49 --> 00:00:51
+                                 Said we needed the steel.
+
+                                            9
+                                  00:00:52 --> 00:00:53
+                                 But I knew it was a lie.
+
+                                            10
+                                   00:00:54 --> 00:00:57
+                                He wanted me to know death.
+
+                                           11
+                                 00:00:58 --> 00:01:02
+                       Kino says war is a failure of statecraft.
+
+                                            12
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      Page |2
+
+
+                                    00:01:02 --> 00:01:04
+                                 [woman] Your brother thinks
+                            he can talk his way out of anything.
+
+                                          13
+                                 00:01:04 --> 00:01:06
+                      He fancies himself a fox among the wolves.
+
+                                                14
+                                       00:01:06 --> 00:01:10
+                                        But mark me, child,
+                                if you want to last in this world,
+
+                                                15
+                                      00:01:10 --> 00:01:14
+                                you must learn to be both the fox
+                                          and the wolf.
+
+                                          16
+                                 00:01:17 --> 00:01:19
+                      [Young Mel] We'll paint the walls in gold.
+
+                                                17
+                                       00:01:19 --> 00:01:22
+                                    Import crystal chandeliers.
+
+                                                18
+                                       00:01:22 --> 00:01:24
+                                     Advisors will enter here,
+
+                                                 19
+                                       00:01:24 --> 00:01:28
+                                           but the regent
+                                will have her own, secret entrance.
+
+                                                20
+                                      00:01:28 --> 00:01:31
+                                She should have a kind, fat face.
+
+                                                21
+                                       00:01:31 --> 00:01:36
+                                  Clever, to charm her subjects,
+                                  but pliable so we can mold her.
+
+                                          22
+                                 00:01:36 --> 00:01:38
+                      [woman] Perhaps, she could be my daughter.
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      Page |3
+
+
+
+                                                23
+                                       00:01:39 --> 00:01:40
+                                      You'd give me a throne?
+
+                                                24
+                                      00:01:41 --> 00:01:46
+                                I will give you the world, child,
+                                  if you prove you can take it.
+
+                                                25
+                                       00:01:47 --> 00:01:50
+                                         [metal clanking]
+
+                                                26
+                                       00:01:52 --> 00:01:54
+                                          [ominous music]
+
+                                                 27
+                                       00:01:59 --> 00:02:01
+                                [woman] What should we do with her?
+
+                                                28
+                                      00:02:08 --> 00:02:10
+                                  She won't make trouble for us.
+
+                                                29
+                                      00:02:10 --> 00:02:14
+                                   Strip her of her possessions
+                                and send her to the far colonies.
+
+                                          30
+                                 00:02:17 --> 00:02:20
+                      -[woman] She's a symbol of the old regime.
+                                    -[girl grunts]
+
+                                                31
+                                      00:02:20 --> 00:02:23
+                                      [woman] Kill her now,
+                                      and only one must die.
+
+                                                32
+                                       00:02:23 --> 00:02:26
+                                   Let her live and you may need
+                                        to kill thousands.
+
+                                                33
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   Page |4
+
+
+                                  00:02:26 --> 00:02:29
+                         We can show the people we are merciful.
+
+                                            34
+                                   00:02:29 --> 00:02:30
+                                    [breathes shakily]
+
+                                            35
+                                   00:02:32 --> 00:02:34
+                                          [gasps]
+
+                                            36
+                                   00:02:40 --> 00:02:42
+                                      [sword swishes]
+
+                                            37
+                                   00:02:43 --> 00:02:46
+                                     [dramatic music]
+
+                                             38
+                                   00:02:47 --> 00:02:48
+                                [woman] A wolf has no mercy.
+
+                                            39
+                                  00:02:50 --> 00:02:53
+                                [dramatic music continues]
+
+                                            40
+                                   00:02:53 --> 00:02:54
+                                          [gasps]
+
+                                            41
+                                   00:02:54 --> 00:02:57
+                                     [heavy breathing]
+
+                                            42
+                                   00:02:59 --> 00:03:02
+                                     [chilling music]
+
+                                            43
+                                   00:03:14 --> 00:03:16
+                                     -[Caitlyn grunts]
+                                    -Will you be okay?
+
+                                            44
+                                   00:03:17 --> 00:03:19
+                                   -I'll be right back.
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                    Page |5
+
+
+                                             -Okay.
+
+                                               45
+                                      00:03:20 --> 00:03:24
+                                        [dramatic music]
+
+                                               46
+                                      00:03:28 --> 00:03:29
+                                              Jinx!
+                                            [grunts]
+
+                                               47
+                                     00:03:34 --> 00:03:36
+                                   [gasps, breathing heavily]
+
+                                               48
+                                      00:03:37 --> 00:03:40
+                                      [Enforcers clamoring]
+
+                                               49
+                                      00:03:42 --> 00:03:45
+                                         [somber music]
+
+                                               50
+                                      00:03:52 --> 00:03:55
+                                      [Enforcers clamoring]
+
+                                               51
+                                      00:04:02 --> 00:04:03
+                                           It's gone.
+
+                                               52
+                                      00:04:03 --> 00:04:04
+                                              What?
+
+                                                53
+                                      00:04:07 --> 00:04:09
+                                [Caitlyn] It was all for nothing.
+
+                                               54
+                                     00:04:10 --> 00:04:13
+                                    [somber music continues]
+
+                                               55
+                                      00:04:19 --> 00:04:22
+                                      [somber music rises]
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      Page |6
+
+
+                                                56
+                                       00:04:22 --> 00:04:23
+                                       [background chatter]
+
+                                                57
+                                       00:04:36 --> 00:04:39
+                                ["Enemy" by Imagine Dragons plays]
+
+                                                58
+                                      00:04:49 --> 00:04:51
+                                    ♪ I wake up to the sounds
+                                   Of the silence that arouse ♪
+
+                                                59
+                                       00:04:52 --> 00:04:55
+                                   ♪ From my mind to run around
+                                   Put my ear up to the ground ♪
+
+                                                60
+                                       00:04:55 --> 00:04:58
+                                     ♪ I'm searching to behold
+                                     The stories that I told ♪
+
+                                                61
+                                      00:04:58 --> 00:05:01
+                                    ♪ My back is to the world
+                                 That was smiling when I turned ♪
+
+                                                62
+                                      00:05:01 --> 00:05:07
+                                 ♪ Tell you you're the greatest ♪
+
+                                                 63
+                                       00:05:07 --> 00:05:14
+                                ♪ But once you turn, they hate us ♪
+
+                                                64
+                                       00:05:14 --> 00:05:17
+                                        ♪ Oh, the misery ♪
+
+                                                65
+                                       00:05:17 --> 00:05:20
+                                ♪ Everybody wants to be my enemy ♪
+
+                                                66
+                                       00:05:21 --> 00:05:23
+                                      ♪ Spare the sympathy ♪
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                     Page |7
+
+
+
+                                                67
+                                       00:05:23 --> 00:05:26
+                                ♪ Everybody wants to be my enemy ♪
+
+                                               68
+                                      00:05:26 --> 00:05:28
+                                       ♪ Hey-o, I swear ♪
+
+                                               69
+                                      00:05:29 --> 00:05:31
+                                      ♪ I never be insane ♪
+
+                                               70
+                                      00:05:31 --> 00:05:32
+                                          ♪ My enemy ♪
+
+                                               71
+                                      00:05:32 --> 00:05:34
+                                       ♪ Hey-o, I swear ♪
+
+                                               72
+                                      00:05:34 --> 00:05:36
+                                      ♪ I never be insane ♪
+
+                                               73
+                                      00:05:36 --> 00:05:38
+                                    ♪ Look out for yourself ♪
+
+                                               74
+                                      00:05:42 --> 00:05:45
+                                         [somber music]
+
+                                            75
+                                  00:05:51 --> 00:05:52
+                         [sergeant] Sir, we've secured the area.
+
+                                               76
+                                      00:05:53 --> 00:05:56
+                                  I've got orders to escort you
+                                       back into the city.
+
+                                               77
+                                      00:05:56 --> 00:05:57
+                                              Sir?
+
+                                                78
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                     Page |8
+
+
+                                      00:05:59 --> 00:06:00
+                                       Are you all right?
+
+                                               79
+                                      00:06:02 --> 00:06:05
+                                        [vomits, coughs]
+
+                                               80
+                                      00:06:06 --> 00:06:08
+                                             [spits]
+
+                                               81
+                                      00:06:08 --> 00:06:10
+                                   [groans, breathing heavily]
+
+                                               82
+                                      00:06:10 --> 00:06:12
+                                       [firelight trills]
+
+                                               83
+                                      00:06:14 --> 00:06:16
+                                             [sighs]
+
+                                               84
+                                      00:06:17 --> 00:06:20
+                                         [ominous music]
+
+                                               85
+                                      00:06:35 --> 00:06:37
+                                          [both grunt]
+
+                                               86
+                                      00:06:37 --> 00:06:39
+                                           [footsteps]
+
+                                                87
+                                       00:06:40 --> 00:06:43
+                                       [Vi] Who lives here?
+                                Another Councilor friend of yours?
+
+                                                88
+                                      00:06:43 --> 00:06:45
+                                          -[door bangs]
+                                           -[cocks gun]
+
+                                               89
+                                      00:06:47 --> 00:06:49
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   Page |9
+
+
+                                          Caitlyn!
+
+                                             90
+                                    00:06:49 --> 00:06:52
+                                   Oh. We were so worried.
+                                 Thank goodness you're safe!
+
+                                             91
+                                   00:06:52 --> 00:06:54
+                                   And you found a stray.
+
+                                             92
+                                    00:06:54 --> 00:06:56
+                                         This is Vi.
+
+                                             93
+                                    00:06:56 --> 00:06:58
+                                  She's from the undercity.
+
+                                             94
+                                    00:06:58 --> 00:06:59
+                                          So I see.
+
+                                              95
+                                    00:06:59 --> 00:07:02
+                                Could we have a word, Caitlyn?
+
+                                             96
+                                    00:07:02 --> 00:07:04
+                                         In private.
+
+                                             97
+                                    00:07:09 --> 00:07:11
+                                 [Caitlyn] You have to speak
+                                       to the Council.
+
+                                             98
+                                   00:07:11 --> 00:07:13
+                           [Mrs. Kiramman] Speak to the Council?
+
+                                          99
+                                 00:07:13 --> 00:07:15
+                      You understand you've broken several laws?
+
+                                          100
+                                 00:07:15 --> 00:07:17
+                       She was doing what she thought was right.
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 10
+
+
+
+                                                101
+                                       00:07:17 --> 00:07:18
+                                             [groans]
+
+                                                102
+                                       00:07:19 --> 00:07:21
+                                     I'll take responsibility.
+
+                                               103
+                                      00:07:21 --> 00:07:23
+                                  You're a Councilor's daughter.
+
+                                           104
+                                  00:07:23 --> 00:07:25
+                        Your actions reflect on the entire body.
+
+                                                105
+                                       00:07:25 --> 00:07:27
+                                            My actions?
+                                            [grumbles]
+
+                                               106
+                                      00:07:27 --> 00:07:29
+                                        You know what else
+                                     reflects on the Council?
+
+                                                107
+                                       00:07:29 --> 00:07:32
+                                Its citizens living on the streets.
+                                          Being poisoned.
+
+                                                108
+                                       00:07:32 --> 00:07:35
+                                Having to choose between a kingpin
+                                     who wants to exploit them
+
+                                          109
+                                 00:07:35 --> 00:07:38
+                      and a government that doesn't give a shit.
+
+                                                110
+                                       00:07:38 --> 00:07:39
+                                              -[yelps]
+                                             -Caitlyn!
+
+                                                111
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 11
+
+
+                                       00:07:41 --> 00:07:45
+                                  I'm sure our daughter could use
+                                  some rest after her adventures.
+
+                                                112
+                                       00:07:45 --> 00:07:46
+                                              [sighs]
+
+                                                113
+                                       00:07:51 --> 00:07:53
+                                    -I'll schedule an audience.
+                                             -[gasps]
+
+                                                114
+                                       00:07:55 --> 00:07:56
+                                            Thank you.
+
+                                                115
+                                       00:07:56 --> 00:07:59
+                                        You and your friend
+                                can address the Council yourselves.
+
+                                             116
+                                    00:08:00 --> 00:08:02
+                            I'd suggest you prepare accordingly.
+
+                                                117
+                                       00:08:04 --> 00:08:07
+                                           [eerie music]
+
+                                                118
+                                       00:08:08 --> 00:08:10
+                                [Singed grunts, breathing heavily]
+
+                                                119
+                                       00:08:16 --> 00:08:17
+                                              [sighs]
+
+                                                120
+                                       00:08:19 --> 00:08:20
+                                           [door bangs]
+
+                                                121
+                                       00:08:21 --> 00:08:23
+                                             [panting]
+
+                                                122
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                     P a g e | 12
+
+
+                                   00:08:24 --> 00:08:28
+                             -[Silco] Her injuries are severe.
+                           -[Singed] You think I can't see that?
+
+                                               123
+                                      00:08:29 --> 00:08:30
+                                              Huh.
+
+                                                124
+                                       00:08:30 --> 00:08:36
+                                     I believe I can save her,
+                                but the process will be demanding.
+
+                                            125
+                                   00:08:36 --> 00:08:39
+                                      -[Silco grunts]
+                           -[Singed] Sometimes death is a mercy.
+
+                                               126
+                                      00:08:39 --> 00:08:41
+                                            [scoffs]
+                                        She can take it.
+
+                                          127
+                                 00:08:41 --> 00:08:43
+                       [Singed] And before I begin, I must know…
+
+                                               128
+                                      00:08:44 --> 00:08:46
+                                  Are you prepared to lose her?
+
+                                               129
+                                      00:08:46 --> 00:08:48
+                                            -[gasps]
+                                         -[Jinx coughs]
+
+                                               130
+                                      00:08:48 --> 00:08:50
+                                             -Jinx?
+                                            -[grunts]
+
+                                               131
+                                      00:08:50 --> 00:08:52
+                                             -Jinx!
+                                            -[groans]
+
+                                               132
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                 P a g e | 13
+
+
+                                   00:08:54 --> 00:08:58
+                                          [sighs]
+                                   She won't die, Doctor.
+
+                                             133
+                                    00:08:58 --> 00:08:59
+                                         She can't.
+
+                                            134
+                                   00:09:02 --> 00:09:04
+                                   [Singed] I understand.
+
+                                            135
+                                   00:09:07 --> 00:09:10
+                                     Please understand,
+                                this is for your own sanity.
+
+                                             136
+                                    00:09:10 --> 00:09:12
+                                           [gasps]
+
+                                            137
+                                   00:09:16 --> 00:09:18
+                                I, too, once had a daughter.
+
+                                             138
+                                    00:09:26 --> 00:09:29
+                                    -[background chatter]
+                                          -[grunts]
+
+                                             139
+                                    00:09:29 --> 00:09:31
+                                          [coughs]
+
+                                            140
+                                   00:09:33 --> 00:09:35
+                                 Silco isn't taking guests.
+
+                                             141
+                                    00:09:35 --> 00:09:36
+                                       Not a problem.
+
+                                             142
+                                    00:09:36 --> 00:09:40
+                                     Wasn't here for him.
+                                Thought I might bend your ear.
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   P a g e | 14
+
+
+                                            143
+                                   00:09:40 --> 00:09:43
+                                   [indistinct chatter]
+
+                                            144
+                                   00:09:43 --> 00:09:46
+                                You know when I ask my mates
+                                    what Silco's up to,
+
+                                            145
+                                   00:09:46 --> 00:09:49
+                          your name's first out of their mouths.
+
+                                          146
+                                 00:09:49 --> 00:09:53
+                             "Sevika's out in the harbor,"
+                      or "Sevika paid the knuckleheads a visit."
+
+                                            147
+                                   00:09:54 --> 00:09:55
+                                   You're a scary lady.
+
+                                            148
+                                   00:09:57 --> 00:09:59
+                                    Get to your point.
+
+                                            149
+                                   00:09:59 --> 00:10:01
+                                Run a tight ship, don't you?
+
+                                           150
+                                  00:10:01 --> 00:10:03
+                                Except it's not your ship.
+
+                                            151
+                                   00:10:04 --> 00:10:06
+                                   It's his and Jinx's.
+
+                                            152
+                                   00:10:06 --> 00:10:08
+                                    This is your plan?
+
+                                            153
+                                   00:10:08 --> 00:10:11
+                                      Undermine Silco
+                          by making a half-assed play at my ego?
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 15
+
+
+                                                154
+                                       00:10:12 --> 00:10:13
+                                    Gotta hand it to you, Finn.
+
+                                           155
+                                  00:10:13 --> 00:10:16
+                        Every time I think you can't get dumber,
+                                   you dig a new low.
+
+                                             156
+                                    00:10:18 --> 00:10:21
+                            Let's be plain, then. He's slipping.
+
+                                                157
+                                       00:10:21 --> 00:10:23
+                                The undercity's devolving to chaos.
+
+                                           158
+                                  00:10:23 --> 00:10:27
+                              And somehow, I get the feeling
+                         he isn't up there balancing booksheets.
+
+                                                159
+                                       00:10:28 --> 00:10:32
+                                         Jinx gets a whim,
+                                suddenly his spine's made of jelly.
+
+                                            160
+                                   00:10:32 --> 00:10:35
+                           And here you are, shoveling his shit.
+
+                                                161
+                                       00:10:36 --> 00:10:40
+                                Ego is one thing, brain's another.
+
+                                                162
+                                       00:10:41 --> 00:10:43
+                                       [background chatter]
+
+                                                163
+                                       00:10:44 --> 00:10:45
+                                         [lighter clinks]
+
+                                             164
+                                    00:10:46 --> 00:10:49
+                            You aren't the only one dissatisfied
+                                    with his performance.
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                    P a g e | 16
+
+
+
+                                               165
+                                      00:10:50 --> 00:10:52
+                                 There's bigger fish than Silco.
+
+                                               166
+                                      00:10:55 --> 00:10:56
+                                            [sizzles]
+
+                                               167
+                                      00:10:57 --> 00:10:59
+                                        -[lighter clinks]
+                                            -[grunts]
+
+                                               168
+                                      00:11:03 --> 00:11:04
+                                         [metal clanks]
+
+                                               169
+                                      00:11:06 --> 00:11:09
+                                         [ominous music]
+
+                                               170
+                                      00:11:21 --> 00:11:23
+                                            [grunts]
+
+                                           171
+                                  00:11:26 --> 00:11:31
+                                       Mel. Elora.
+                         You didn't have to come out to meet me.
+
+                                               172
+                                      00:11:31 --> 00:11:33
+                                -What are you doing here, Mother?
+                                        -Can I not visit?
+
+                                              173
+                                     00:11:34 --> 00:11:36
+                                       I've heard stories
+                                   of Piltover's hospitality.
+
+                                               174
+                                      00:11:36 --> 00:11:37
+                                           [chuckles]
+
+                                               175
+                                      00:11:37 --> 00:11:41
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   P a g e | 17
+
+
+                            You didn't sail halfway across
+                      the continent to sample the local cuisine.
+
+                                             176
+                                    00:11:41 --> 00:11:45
+                                -It's been over a decade, Mel.
+                                   -Since you banished me?
+
+                                             177
+                                    00:11:45 --> 00:11:46
+                                         Such drama.
+
+                                          178
+                                 00:11:46 --> 00:11:50
+                               I sent you here to oversee
+                       our family's interests and grow yourself.
+
+                                             179
+                                    00:11:50 --> 00:11:51
+                                       Which you have.
+
+                                           180
+                                  00:11:51 --> 00:11:55
+                         You said, "Perhaps, your sentimentality
+                                   will be more at home
+
+                                            181
+                                   00:11:55 --> 00:11:58
+                                   with those soft-spined
+                                    idealists overseas."
+
+                                             182
+                                    00:12:00 --> 00:12:01
+                                You have your father's memory.
+
+                                          183
+                                 00:12:01 --> 00:12:04
+                       Don't try to ingratiate yourself with me.
+
+                                             184
+                                    00:12:04 --> 00:12:06
+                                            -Mel.
+                                          -Or that.
+
+                                             185
+                                    00:12:06 --> 00:12:09
+                                       [seagulls caw]
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 18
+
+
+
+                                                186
+                                       00:12:11 --> 00:12:12
+                                       Your brother's gone.
+
+                                                187
+                                       00:12:13 --> 00:12:14
+                                              [gasps]
+
+                                                188
+                                       00:12:16 --> 00:12:17
+                                          What happened?
+
+                                                189
+                                       00:12:18 --> 00:12:21
+                                              [sighs]
+                                     He crossed the wrong man.
+
+                                                190
+                                       00:12:23 --> 00:12:24
+                                         I was distracted.
+
+                                                191
+                                       00:12:25 --> 00:12:27
+                                That's a mistake I can't take back.
+
+                                                192
+                                       00:12:28 --> 00:12:30
+                                         [heavy breathing]
+
+                                                193
+                                       00:12:31 --> 00:12:34
+                                Your Jayce Talis has turned his eye
+                                        to Hextech weaponry.
+
+                                                194
+                                       00:12:35 --> 00:12:36
+                                             [scoffs]
+                                            I knew it.
+
+                                                195
+                                       00:12:36 --> 00:12:38
+                                          War is coming.
+
+                                                196
+                                       00:12:38 --> 00:12:41
+                                      You've let the problems
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                     P a g e | 19
+
+
+                                of your undercity fester too long.
+
+                                               197
+                                      00:12:41 --> 00:12:43
+                                    Piltover isn't like Noxus.
+
+                                           198
+                                  00:12:43 --> 00:12:46
+                         War isn't our first and every recourse.
+
+                                           199
+                                  00:12:46 --> 00:12:50
+                        I sponsored Hextech to protect the city,
+                               not burn it to the ground.
+
+                                               200
+                                      00:12:50 --> 00:12:53
+                                It's not conjecture, it's a fact.
+
+                                               201
+                                      00:12:53 --> 00:12:57
+                                     Weapons can't be unmade
+                                    and they are always used.
+
+                                               202
+                                      00:12:57 --> 00:13:00
+                                    I'm here to help guide you
+                                     to the right decisions.
+
+                                               203
+                                      00:13:01 --> 00:13:04
+                                   -I don't need your guidance.
+                                           -We'll see.
+
+                                               204
+                                      00:13:06 --> 00:13:07
+                                          Miss Medarda?
+
+                                               205
+                                      00:13:08 --> 00:13:09
+                                              -Yes?
+                                              -Yes?
+
+                                               206
+                                      00:13:13 --> 00:13:14
+                                       He's for me, dear.
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                    P a g e | 20
+
+
+                                             207
+                                    00:13:18 --> 00:13:21
+                            I'm off to sample the local cuisine.
+
+                                               208
+                                      00:13:24 --> 00:13:27
+                                         [seagulls caw]
+
+                                               209
+                                      00:13:29 --> 00:13:31
+                                          [door opens]
+
+                                               210
+                                      00:13:34 --> 00:13:37
+                                     We'll present our case
+                                     to the Council tonight.
+
+                                              211
+                                     00:13:40 --> 00:13:41
+                                   You did all this yourself?
+
+                                              212
+                                     00:13:42 --> 00:13:44
+                                 Without even going down there?
+
+                                               213
+                                      00:13:45 --> 00:13:46
+                                           [Vi sighs]
+
+                                           214
+                                  00:13:46 --> 00:13:49
+                        And I thought Powder could get obsessed.
+                                        [scoffs]
+
+                                          215
+                                 00:13:52 --> 00:13:55
+                      What happened to her, it's not your fault.
+
+                                               216
+                                      00:13:59 --> 00:14:01
+                                When my parents were still alive…
+
+                                              217
+                                     00:14:03 --> 00:14:05
+                                         me and Powder
+                                 used to share a bed like this.
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 21
+
+
+                                                218
+                                       00:14:06 --> 00:14:09
+                                   Except, maybe, half the size.
+
+                                                219
+                                       00:14:10 --> 00:14:15
+                                We played a game where we pretended
+                                 to be bigger and bigger monsters.
+
+                                            220
+                                   00:14:16 --> 00:14:21
+                           So she would say, "I'm a slug monster
+                                   with venom for ooze."
+
+                                          221
+                                 00:14:22 --> 00:14:26
+                      And I'd say, "Well, I'm a slug-eating crab
+                                  with razor spikes."
+
+                                                222
+                                       00:14:29 --> 00:14:33
+                                Sometimes, I… I'd get carried away
+                                       and she'd get scared.
+
+                                               223
+                                      00:14:36 --> 00:14:39
+                                I didn't want her to start crying
+                                   and wake my parents up, so…
+
+                                          224
+                                 00:14:40 --> 00:14:42
+                      I pretended to chase my own monsters away.
+
+                                                225
+                                       00:14:43 --> 00:14:44
+                                             I'd say…
+
+                                                226
+                                       00:14:46 --> 00:14:48
+                                    "No monster's gonna get you
+                                          when I'm here."
+
+                                               227
+                                      00:14:50 --> 00:14:51
+                                  Then a real monster showed up.
+
+                                                228
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                  P a g e | 22
+
+
+                                    00:14:54 --> 00:14:56
+                                    And I just ran away.
+
+                                             229
+                                    00:14:58 --> 00:14:59
+                                         I left her.
+
+                                             230
+                                    00:15:01 --> 00:15:03
+                                      [dramatic music]
+
+                                             231
+                                    00:15:07 --> 00:15:09
+                                       [gasps, coughs]
+
+                                             232
+                                    00:15:13 --> 00:15:14
+                                        [Jinx yelps]
+
+                                             233
+                                    00:15:15 --> 00:15:17
+                                      [grunts, screams]
+
+                                             234
+                                    00:15:17 --> 00:15:20
+                                 [breathing heavily, groans]
+
+                                             235
+                                    00:15:21 --> 00:15:23
+                                          [creaks]
+
+                                             236
+                                    00:15:23 --> 00:15:24
+                                      [heavy breathing]
+
+                                             237
+                                    00:15:25 --> 00:15:26
+                                       [Powder laughs]
+
+                                              238
+                                     00:15:27 --> 00:15:30
+                                       You know, Powder,
+                                you're stronger than you think.
+
+                                             239
+                                    00:15:31 --> 00:15:32
+                                             Vi?
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 23
+
+
+
+                                               240
+                                      00:15:33 --> 00:15:35
+                                    [Vi] I'm so sorry, Powder.
+
+                                                241
+                                       00:15:35 --> 00:15:38
+                                       -Your sister is jinx.
+                                               -No!
+
+                                                242
+                                       00:15:39 --> 00:15:41
+                                            [Vi] Jinx.
+
+                                                243
+                                       00:15:41 --> 00:15:43
+                                            No, no. No!
+
+                                                244
+                                       00:15:43 --> 00:15:44
+                                              [sobs]
+
+                                                245
+                                       00:15:44 --> 00:15:47
+                                I understand this must be painful.
+
+                                                246
+                                       00:15:47 --> 00:15:49
+                                                No!
+                                            [whimpers]
+
+                                                247
+                                       00:15:49 --> 00:15:52
+                                -I'm afraid it will only get worse.
+                                               -Wait!
+
+                                                248
+                                       00:15:53 --> 00:15:56
+                                                No!
+                                            [screaming]
+
+                                                249
+                                       00:15:58 --> 00:16:02
+                                           [eerie music]
+
+                                                250
+                                       00:16:06 --> 00:16:07
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                  P a g e | 24
+
+
+                                           [sighs]
+
+                                             251
+                                    00:16:10 --> 00:16:12
+                                       [grunts weakly]
+
+                                             252
+                                    00:16:26 --> 00:16:27
+                                      [Silco grumbles]
+
+                                             253
+                                    00:16:29 --> 00:16:31
+                                     What have you done?
+
+                                             254
+                                    00:16:32 --> 00:16:33
+                                      I saved her life.
+
+                                             255
+                                    00:16:36 --> 00:16:38
+                                          [groans]
+
+                                             256
+                                    00:16:39 --> 00:16:42
+                                [crowd shouting indistinctly]
+
+                                             257
+                                    00:16:42 --> 00:16:44
+                                       [both grunting]
+
+                                             258
+                                    00:16:48 --> 00:16:50
+                                       [both grumble]
+
+                                              259
+                                     00:16:51 --> 00:16:52
+                                [man 1] Hey, watch it, furball.
+
+                                             260
+                                    00:16:52 --> 00:16:54
+                                        [man 2] Move.
+
+                                             261
+                                    00:16:55 --> 00:16:56
+                                           [sighs]
+
+                                             262
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                             P a g e | 25
+
+
+                                  00:16:56 --> 00:16:58
+                                     -[man 3 grunts]
+                                        -[gasps]
+
+                                           263
+                                  00:16:59 --> 00:17:02
+                                  [indistinct chatter]
+
+                                           264
+                                  00:17:03 --> 00:17:05
+                                       [grumbles]
+
+                                           265
+                                  00:17:12 --> 00:17:14
+                                [man 4 grunts in distance]
+
+                                           266
+                                  00:17:14 --> 00:17:16
+                                      [rat squeaks]
+
+                                           267
+                                  00:17:17 --> 00:17:20
+                                     [somber music]
+
+                                           268
+                                  00:17:26 --> 00:17:27
+                                           Oh.
+
+                                           269
+                                  00:17:28 --> 00:17:29
+                                          Hmm.
+
+                                           270
+                                  00:17:30 --> 00:17:32
+                                          -Hmm.
+                                     -[gears rattle]
+
+                                           271
+                                  00:17:32 --> 00:17:33
+                                         [puffs]
+
+                                           272
+                                  00:17:33 --> 00:17:34
+                                          Huh?
+
+                                           273
+                                  00:17:35 --> 00:17:36
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                             P a g e | 26
+
+
+                                          Hmm…
+
+                                           274
+                                  00:17:39 --> 00:17:40
+                                       Like this.
+
+                                           275
+                                  00:17:40 --> 00:17:41
+                                         [gasps]
+
+                                           276
+                                  00:17:42 --> 00:17:43
+                                [woman] Get away from her.
+
+                                           277
+                                  00:17:45 --> 00:17:47
+                                       [girl] Bye…
+
+                                           278
+                                  00:17:47 --> 00:17:48
+                                         [sighs]
+
+                                           279
+                                  00:17:50 --> 00:17:53
+                                    [seagulls cawing]
+
+                                           280
+                                  00:17:56 --> 00:18:00
+                                   [mysterious music]
+
+                                          281
+                                 00:18:04 --> 00:18:06
+                                 [electricity crackles]
+
+                                           282
+                                  00:18:06 --> 00:18:08
+                                     Oh, ingenious.
+
+                                          283
+                                 00:18:09 --> 00:18:12
+                                  Though these blades
+                                seem improperly pitched.
+
+                                           284
+                                  00:18:12 --> 00:18:14
+                                  [Ekko] You're wrong.
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   P a g e | 27
+
+
+                                              285
+                                     00:18:15 --> 00:18:16
+                                It's designed for the fissures.
+
+                                             286
+                                    00:18:17 --> 00:18:18
+                                     The air is denser.
+
+                                             287
+                                    00:18:18 --> 00:18:19
+                                     [Heimerdinger] Oh.
+
+                                             288
+                                    00:18:19 --> 00:18:22
+                                          -[grunts]
+                                   -Are you all right, lad?
+
+                                          289
+                                 00:18:22 --> 00:18:25
+                       Yeah, I'm fine, I just sprained my ankle.
+
+                                              290
+                                     00:18:26 --> 00:18:29
+                                Are you Councilor Heimerdinger?
+
+                                             291
+                                    00:18:30 --> 00:18:32
+                                 It's just Heimerdinger now.
+
+                                             292
+                                    00:18:33 --> 00:18:35
+                                      What are you doing
+                                  on this side of the river?
+
+                                              293
+                                     00:18:36 --> 00:18:38
+                                I wanted to offer my assistance
+
+                                            294
+                                   00:18:38 --> 00:18:40
+                          to the citizens of the undercity, but…
+
+                                             295
+                                    00:18:40 --> 00:18:43
+                                   it seems I'm unwelcome.
+
+                                             296
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 28
+
+
+                                       00:18:44 --> 00:18:46
+                                            [chuckles]
+
+                                               297
+                                      00:18:46 --> 00:18:49
+                                          -What is it?
+                                -We're having the exact same day.
+
+                                                298
+                                       00:18:49 --> 00:18:50
+                                             [scoffs]
+
+                                                299
+                                       00:18:51 --> 00:18:55
+                                That looks like more than a sprain.
+                                    You need medical attention.
+
+                                               300
+                                      00:18:55 --> 00:18:58
+                                       I have to get home.
+                                    It isn't safe for me here.
+
+                                                301
+                                       00:18:58 --> 00:18:59
+                                             [grunts]
+
+                                             302
+                                    00:18:59 --> 00:19:03
+                            I don't know how I'm gonna get there
+                               with my leg busted, and, well…
+
+                                                303
+                                       00:19:03 --> 00:19:05
+                                      you're holding my ride.
+
+                                                304
+                                       00:19:07 --> 00:19:10
+                                          [water sloshes]
+
+                                                305
+                                       00:19:10 --> 00:19:13
+                                         [relaxing music]
+
+                                                306
+                                       00:19:15 --> 00:19:16
+                                             [slurps]
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 29
+
+
+                                               307
+                                      00:19:18 --> 00:19:21
+                                  Do they teach military history
+                                   at your Academy, Mr. Talis?
+
+                                               308
+                                      00:19:22 --> 00:19:24
+                                    It's, um, Councilor Talis.
+
+                                                309
+                                       00:19:25 --> 00:19:26
+                                         And I'm not sure.
+
+                                                310
+                                       00:19:26 --> 00:19:29
+                                [Mrs. Medarda] The Alornian General
+                                           Sonnem Parlec
+
+                                               311
+                                      00:19:29 --> 00:19:32
+                                        used to find ways
+                                 to meet his enemies blindfolded.
+
+                                               312
+                                      00:19:32 --> 00:19:35
+                                       He said a man's mind
+                                      hides behind his body.
+
+                                             313
+                                    00:19:35 --> 00:19:38
+                            Somehow, I doubt he ever tried this.
+
+                                                314
+                                       00:19:39 --> 00:19:40
+                                         You're Mel's mom.
+
+                                                315
+                                       00:19:41 --> 00:19:42
+                                        Among other things.
+
+                                               316
+                                      00:19:43 --> 00:19:46
+                                  [Mrs. Medarda] Squeeze, child.
+                                       You won't break it.
+
+                                                317
+                                       00:19:47 --> 00:19:49
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                    P a g e | 30
+
+
+                                    I do have other matters,
+                                     so if you'll excuse me…
+
+                                               318
+                                      00:19:49 --> 00:19:51
+                                    [Mrs. Medarda] The threat
+                                    of the undercity is real.
+
+                                               319
+                                      00:19:52 --> 00:19:55
+                                  -Your leadership is impotent.
+                                            -[scoffs]
+
+                                               320
+                                      00:19:55 --> 00:19:58
+                                We may not be Noxus, but Piltover
+                                 isn't as helpless as you think.
+
+                                               321
+                                      00:19:58 --> 00:20:00
+                                          [Mrs. Medarda]
+                                Who said anything about Piltover?
+
+                                              322
+                                     00:20:00 --> 00:20:04
+                                  The Council is the problem.
+                                The mind hiding behind the body.
+
+                                              323
+                                     00:20:04 --> 00:20:09
+                                 Navigating your current crisis
+                                  requires expertise you lack.
+
+                                               324
+                                      00:20:09 --> 00:20:13
+                                Do you know what the success rate
+                                 for senior Academy inventors is?
+
+                                              325
+                                     00:20:13 --> 00:20:14
+                                     [Jayce] Three percent.
+
+                                              326
+                                     00:20:14 --> 00:20:16
+                                 We're no strangers to failure.
+
+                                               327
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                     P a g e | 31
+
+
+                                 00:20:16 --> 00:20:20
+                       What makes this the City of Progress is
+                      that we keep trying until we get it right.
+
+                                           328
+                                  00:20:21 --> 00:20:24
+                              So thank you for your advice,
+                         Mrs. Medarda, but I have a city to run.
+
+                                               329
+                                      00:20:26 --> 00:20:27
+                                              Wait.
+
+                                               330
+                                      00:20:27 --> 00:20:29
+                                         [water sloshes]
+
+                                               331
+                                      00:20:30 --> 00:20:31
+                                      [gasps, clears throat]
+
+                                            332
+                                   00:20:32 --> 00:20:35
+                          [Mrs. Medarda] I see why this province
+                           and my daughter have fallen for you.
+
+                                               333
+                                      00:20:35 --> 00:20:37
+                                  You have the passion of youth.
+
+                                               334
+                                      00:20:38 --> 00:20:41
+                                       I have experience.
+
+                                                335
+                                       00:20:41 --> 00:20:44
+                                I want you to succeed here, Jayce,
+                                 to grace the world with Hextech.
+
+                                          336
+                                 00:20:45 --> 00:20:49
+                      But if you don't accept certain realities,
+                      I fear you'll end up like General Parlec.
+
+                                                337
+                                       00:20:49 --> 00:20:53
+                                Slaughtered with your eyes closed.
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                     P a g e | 32
+
+
+
+                                               338
+                                      00:20:53 --> 00:20:55
+                                       [suspenseful music]
+
+                                               339
+                                      00:20:56 --> 00:20:58
+                                          [Councilor 1]
+                                 Three of my suppliers have said
+
+                                          340
+                                 00:20:58 --> 00:21:00
+                       they intend to delay shipments until fall
+
+                                                341
+                                       00:21:01 --> 00:21:03
+                                to give things "time to cool off."
+
+                                           342
+                                  00:21:03 --> 00:21:05
+                        [Mrs. Kiramman] We have greater concerns
+                                 than a dip in profits.
+
+                                               343
+                                      00:21:05 --> 00:21:08
+                                    The Sheriff betrayed us.
+                                   We need better information.
+
+                                               344
+                                      00:21:08 --> 00:21:12
+                                         We need to act.
+                                 Before anyone else gets killed.
+
+                                               345
+                                      00:21:12 --> 00:21:15
+                                          Perhaps Marcus
+                                   was operating independently.
+
+                                            346
+                                   00:21:15 --> 00:21:18
+                            What could anyone in the undercity
+                          offer him that he didn't have up here?
+
+                                               347
+                                      00:21:18 --> 00:21:20
+                                 It's not what they offered him,
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   P a g e | 33
+
+
+                                             348
+                                    00:21:21 --> 00:21:22
+                                  it's what he had to lose.
+
+                                           349
+                                  00:21:24 --> 00:21:28
+                                 Councilors, my daughter
+                        has a unique insight into our situation.
+
+                                             350
+                                    00:21:28 --> 00:21:29
+                                         Thank you.
+
+                                             351
+                                    00:21:31 --> 00:21:34
+                                   Councilors, this is Vi.
+                                She was born in the undercity.
+
+                                             352
+                                    00:21:35 --> 00:21:38
+                                  Even though we failed her
+                                     in countless ways,
+
+                                             353
+                                    00:21:38 --> 00:21:42
+                              she risked everything to show me
+                            what life is really like down there.
+
+                                            354
+                                   00:21:42 --> 00:21:46
+                                 People are starving, sick,
+                                    ravaged by Shimmer.
+
+                                             355
+                                    00:21:47 --> 00:21:48
+                            [Caitlyn] They live in constant fear
+
+                                            356
+                                   00:21:49 --> 00:21:51
+                                 of the coordinated efforts
+                                  of violent crime lords.
+
+                                            357
+                                   00:21:52 --> 00:21:54
+                                One man leads these efforts.
+
+                                             358
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 34
+
+
+                                       00:21:54 --> 00:21:55
+                                              Silco.
+
+                                                359
+                                       00:21:55 --> 00:21:58
+                                We've done investigations of Silco.
+
+                                               360
+                                      00:21:58 --> 00:22:01
+                                    They yielded no such level
+                                         of organization.
+
+                                               361
+                                      00:22:01 --> 00:22:03
+                                And who led these investigations?
+
+                                           362
+                                  00:22:05 --> 00:22:06
+                         What does this Silco even want from us?
+
+                                                363
+                                       00:22:06 --> 00:22:09
+                                     He believes the undercity
+                                      should be independent.
+
+                                                364
+                                       00:22:09 --> 00:22:11
+                                  He calls it the Nation of Zaun.
+
+                                                365
+                                       00:22:11 --> 00:22:14
+                                        [suspenseful music]
+
+                                               366
+                                      00:22:14 --> 00:22:16
+                                        What about these?
+                                    Do you know who made them?
+
+                                                367
+                                       00:22:16 --> 00:22:18
+                                             No, well…
+
+                                                368
+                                       00:22:19 --> 00:22:21
+                                          -[Caitlyn] Uh…
+                                        -Her name is Jinx.
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 35
+
+
+                                                369
+                                       00:22:21 --> 00:22:23
+                                [Jayce] This Jinx has the Gemstone?
+
+                                               370
+                                      00:22:24 --> 00:22:27
+                                 -Then we have to go in by force.
+                                     -That could trigger war.
+
+                                               371
+                                      00:22:27 --> 00:22:30
+                                -There are good people down there.
+                                -[Councilor 1] Hmph. Bad ones too.
+
+                                          372
+                                 00:22:30 --> 00:22:33
+                      [Councilor 2] Even if we wanted to invade,
+                                  they have Shimmer.
+
+                                                373
+                                       00:22:34 --> 00:22:35
+                                         We have Hextech.
+
+                                                374
+                                       00:22:36 --> 00:22:37
+                                       What happened to you?
+
+                                               375
+                                      00:22:37 --> 00:22:40
+                                 We've been talking about talking
+                                          for weeks now.
+
+                                               376
+                                      00:22:40 --> 00:22:42
+                                 They're still cleaning the blood
+                                         off the bridge.
+
+                                               377
+                                      00:22:42 --> 00:22:45
+                                -When do we say enough is enough?
+                                   -Jayce, you don't know war.
+
+                                                378
+                                       00:22:46 --> 00:22:47
+                                               I do.
+
+                                                379
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 36
+
+
+                                       00:22:47 --> 00:22:52
+                                    It must be our last resort.
+                                There may be a diplomatic solution.
+
+                                                380
+                                       00:22:53 --> 00:22:54
+                                           She's right.
+
+                                                381
+                                       00:22:54 --> 00:22:56
+                                             [grunts]
+
+                                                382
+                                       00:23:00 --> 00:23:02
+                                              [sighs]
+
+                                            383
+                                   00:23:02 --> 00:23:04
+                           What? You want to negotiate with him?
+
+                                            384
+                                   00:23:04 --> 00:23:07
+                          [Mrs. Kiramman] It may be the only way
+                                to avoid further bloodshed.
+
+                                               385
+                                      00:23:07 --> 00:23:10
+                                       [Vi] This is insane.
+                                      Did you learn nothing?
+
+                                               386
+                                      00:23:11 --> 00:23:13
+                                      You can't talk to him!
+
+                                           387
+                                  00:23:13 --> 00:23:16
+                         He hates you. Everything you stand for.
+
+                                               388
+                                      00:23:16 --> 00:23:18
+                                     He will never back down.
+
+                                                389
+                                       00:23:21 --> 00:23:25
+                                -Enforcers, please escort them out.
+                                            -Forget it.
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   P a g e | 37
+
+
+                                             390
+                                    00:23:25 --> 00:23:27
+                                       [Vi] I remember
+                                where your fancy damn door is.
+
+                                             391
+                                    00:23:29 --> 00:23:30
+                                           [sighs]
+
+                                             392
+                                    00:23:33 --> 00:23:34
+                                          [exhales]
+
+                                             393
+                                    00:23:38 --> 00:23:40
+                                      [rain pattering]
+
+                                             394
+                                    00:23:40 --> 00:23:41
+                                     [Caitlyn] Vi! Wait!
+
+                                            395
+                                   00:23:42 --> 00:23:44
+                                 Wait! Where are you going?
+
+                                            396
+                                   00:23:44 --> 00:23:47
+                           I don't know. Back where I came from?
+
+                                            397
+                                   00:23:47 --> 00:23:49
+                                     Seems like that's
+                                what everyone up here wants.
+
+                                             398
+                                    00:23:49 --> 00:23:51
+                                      -I can fix this.
+                                         -You can't!
+
+                                            399
+                                   00:23:51 --> 00:23:54
+                                [Vi] This is how things are.
+                                  How they've always been.
+
+                                          400
+                                 00:23:54 --> 00:23:57
+                       I was so stupid to think it could change.
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                      P a g e | 38
+
+
+
+                                            401
+                                   00:23:57 --> 00:24:00
+                          [Caitlyn] There must be something else
+                                we can do. Some other way.
+
+                                            402
+                                   00:24:01 --> 00:24:03
+                          We'll make a new plan. We have to try.
+
+                                               403
+                                      00:24:03 --> 00:24:06
+                                We tried. Okay? It wasn't enough.
+
+                                                404
+                                       00:24:06 --> 00:24:09
+                                Topside and bottom. Oil and water.
+                                       That's all there is.
+
+                                                405
+                                       00:24:10 --> 00:24:11
+                                          What about us?
+
+                                                406
+                                       00:24:14 --> 00:24:15
+                                          Oil and water.
+
+                                                407
+                                       00:24:16 --> 00:24:17
+                                        Wasn't meant to be.
+
+                                                408
+                                       00:24:17 --> 00:24:18
+                                              [sighs]
+
+                                                409
+                                       00:24:19 --> 00:24:22
+                                     -You're just saying that.
+                                -[Vi] Do yourself a favor, Cupcake.
+
+                                               410
+                                      00:24:23 --> 00:24:26
+                                       Go back to that big,
+                                  shiny house of yours and just…
+
+                                                411
+                                       00:24:27 --> 00:24:30
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                         P a g e | 39
+
+
+                                  forget me, okay?
+
+                                         412
+                                00:24:31 --> 00:24:34
+                                  [rain pattering]
+
+                                         413
+                                00:24:36 --> 00:24:38
+                                   [Viktor sighs]
+
+                                         414
+                                00:24:44 --> 00:24:46
+                                      [exhales]
+
+                                         415
+                                00:24:47 --> 00:24:50
+                                  [dramatic music]
+
+                                         416
+                                00:24:50 --> 00:24:52
+                                      [clanks]
+
+                                         417
+                                00:24:53 --> 00:24:55
+                                       [sighs]
+
+                                         418
+                                00:24:56 --> 00:24:57
+                                      [creaks]
+
+                                         419
+                                00:24:58 --> 00:25:01
+                                [creaking continues]
+
+                                         420
+                                00:25:01 --> 00:25:04
+                                  [dramatic music]
+
+                                         421
+                                00:25:10 --> 00:25:14
+                                [dramatic music rises]
+
+                                         422
+                                00:25:17 --> 00:25:20
+                                      [screams]
+
+                                         423
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   P a g e | 40
+
+
+                                    00:25:27 --> 00:25:29
+                                          [chimes]
+
+                                              424
+                                     00:25:32 --> 00:25:35
+                                [Sky] Viktor, I've been working
+                                     on a private project
+
+                                             425
+                                    00:25:35 --> 00:25:38
+                                   for a couple weeks now.
+
+                                             426
+                                    00:25:38 --> 00:25:39
+                                           [sighs]
+                                             No.
+
+                                             427
+                                    00:25:43 --> 00:25:44
+                                        [device zaps]
+
+                                             428
+                                    00:25:49 --> 00:25:51
+                                      -[device clicks]
+                                          -[gasps]
+
+                                           429
+                                  00:25:54 --> 00:25:58
+                         [Sky] Viktor, I've been working on this
+                                   for a year now and…
+
+                                             430
+                                    00:25:58 --> 00:25:59
+                                          -[sighs]
+                                        -[key clanks]
+
+                                             431
+                                    00:26:00 --> 00:26:01
+                                           Viktor.
+
+                                             432
+                                    00:26:01 --> 00:26:03
+                                          [trills]
+
+                                             433
+                                    00:26:03 --> 00:26:06
+                                      [dramatic music]
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   P a g e | 41
+
+
+
+                                          434
+                                 00:26:13 --> 00:26:17
+                      Viktor, I was hoping you might take a look
+                          at something I've been working on.
+
+                                             435
+                                    00:26:18 --> 00:26:19
+                                       [Viktor grunts]
+
+                                             436
+                                    00:26:23 --> 00:26:24
+                                        [Sky] Viktor…
+
+                                             437
+                                    00:26:24 --> 00:26:27
+                                   I was inspired by your…
+                                           [sighs]
+
+                                             438
+                                    00:26:28 --> 00:26:30
+                                Everything you do inspires me.
+
+                                             439
+                                    00:26:30 --> 00:26:31
+                                     [inhales, exhales]
+
+                                             440
+                                    00:26:31 --> 00:26:33
+                                     [suspenseful music]
+
+                                             441
+                                    00:26:33 --> 00:26:36
+                                        [wind blows]
+
+                                             442
+                                    00:26:38 --> 00:26:39
+                                           Viktor!
+
+                                             443
+                                    00:26:40 --> 00:26:42
+                                      [Viktor screams]
+
+                                             444
+                                    00:26:43 --> 00:26:44
+                                       [Sky grunting]
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                    P a g e | 42
+
+
+                                               445
+                                      00:26:47 --> 00:26:49
+                                           [grumbles]
+
+                                               446
+                                      00:26:50 --> 00:26:51
+                                        [Viktor screams]
+
+                                               447
+                                      00:26:54 --> 00:26:56
+                                          [wind blows]
+
+                                               448
+                                      00:26:57 --> 00:26:59
+                                         [both grunting]
+
+                                               449
+                                      00:27:01 --> 00:27:02
+                                             Viktor!
+
+                                               450
+                                      00:27:08 --> 00:27:10
+                                            [yelping]
+
+                                               451
+                                      00:27:13 --> 00:27:15
+                                           [crackles]
+
+                                               452
+                                      00:27:20 --> 00:27:23
+                                       [mysterious music]
+
+                                               453
+                                      00:27:25 --> 00:27:26
+                                         [Viktor grunts]
+
+                                               454
+                                      00:27:26 --> 00:27:29
+                                          Sky? Sky? No.
+
+                                               455
+                                      00:27:29 --> 00:27:33
+                                No! That… that can't… that can't…
+
+                                               456
+                                      00:27:34 --> 00:27:37
+                                         [ominous music]
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                               P a g e | 43
+
+
+
+                                            457
+                                   00:27:38 --> 00:27:40
+                                         [gurgles]
+
+                                            458
+                                   00:27:43 --> 00:27:46
+                                         [burbles]
+
+                                            459
+                                   00:27:46 --> 00:27:50
+                                     [chimes, gurgles]
+
+                                            460
+                                   00:27:57 --> 00:28:00
+                                    [suspenseful music]
+
+                                            461
+                                   00:28:02 --> 00:28:03
+                                          [rasps]
+
+                                            462
+                                   00:28:08 --> 00:28:10
+                                        [clanking]
+
+                                            463
+                                   00:28:10 --> 00:28:12
+                                        [tinkling]
+
+                                           464
+                                  00:28:16 --> 00:28:19
+                                You want to make Silco pay
+                                   for what he's done?
+
+                                           465
+                                  00:28:20 --> 00:28:22
+                                I could have you arrested.
+
+                                            466
+                                   00:28:22 --> 00:28:24
+                                    You guys really like
+                                to bandy that threat around.
+
+                                            467
+                                   00:28:25 --> 00:28:27
+                                You ever been to Stillwater?
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                   P a g e | 44
+
+
+                                              468
+                                     00:28:27 --> 00:28:29
+                                         -[Jayce] No.
+                                         -[Vi scoffs]
+
+                                              469
+                                     00:28:29 --> 00:28:32
+                                   So you just wave an arm,
+                                   have someone dragged off,
+
+                                             470
+                                    00:28:32 --> 00:28:34
+                                   don't bother to find out
+                                   what it does to someone
+
+                                             471
+                                    00:28:34 --> 00:28:39
+                                being stuffed in a stone box
+                            for weeks, or months, or even years?
+
+                                              472
+                                     00:28:39 --> 00:28:41
+                                            [sighs]
+
+                                              473
+                                     00:28:41 --> 00:28:45
+                                -Yeah. I want to make Silco pay.
+                                        -[Vi] I want in.
+
+                                              474
+                                     00:28:46 --> 00:28:47
+                                        There is no in.
+
+                                              475
+                                     00:28:47 --> 00:28:49
+                                    -You heard the Council.
+                                      -Fuck the Council.
+
+                                          476
+                                 00:28:50 --> 00:28:51
+                       You said you were tired of doing nothing.
+
+                                           477
+                                  00:28:51 --> 00:28:54
+                          [Vi] That's the only sensible thing
+                        that came out of anyone's mouth tonight.
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                     P a g e | 45
+
+
+                                               478
+                                      00:28:55 --> 00:28:56
+                                      I'm not a vigilante.
+
+                                               479
+                                      00:28:56 --> 00:28:59
+                                      No, you're a victim.
+
+                                               480
+                                      00:29:02 --> 00:29:05
+                                           -[clanking]
+                                              -Huh…
+
+                                               481
+                                      00:29:05 --> 00:29:07
+                                      [gauntlet powering up]
+
+                                                482
+                                       00:29:10 --> 00:29:13
+                                This so people notice you when you
+                                raise your hand in the boardroom?
+
+                                           483
+                                  00:29:14 --> 00:29:16
+                                         -[sighs]
+                         -We built them for mining the fissures.
+
+                                               484
+                                      00:29:16 --> 00:29:18
+                                       -[gauntlet clanks]
+                                              -Hmm.
+
+                                           485
+                                  00:29:18 --> 00:29:20
+                        Someone close to me had a pair of these.
+
+                                            486
+                                   00:29:22 --> 00:29:26
+                           [Vi] You're the first person Caitlyn
+                          looked for when we made it to topside.
+
+                                               487
+                                      00:29:26 --> 00:29:28
+                                      Of everyone up here,
+
+                                               488
+                                      00:29:28 --> 00:29:31
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                     P a g e | 46
+
+
+                                    you're the one she trusted
+                                         to do something.
+
+                                               489
+                                      00:29:33 --> 00:29:34
+                                             [sighs]
+
+                                            490
+                                   00:29:35 --> 00:29:37
+                          What do you want me to do? Arrest him?
+
+                                               491
+                                      00:29:38 --> 00:29:40
+                                       [Vi] Silco controls
+                                   the undercity with Shimmer.
+
+                                               492
+                                      00:29:40 --> 00:29:41
+                                      Shut down his supply,
+
+                                                493
+                                       00:29:42 --> 00:29:45
+                                  and it's only a matter of time
+                                before his own people turn on him.
+
+                                               494
+                                      00:29:45 --> 00:29:46
+                                  [Jayce] And how do we do that?
+
+                                               495
+                                      00:29:46 --> 00:29:48
+                                          [Vi] Take out
+                                  his manufacturing facilities.
+
+                                               496
+                                      00:29:48 --> 00:29:51
+                                     Hit them hard and fast,
+                                      before he can react.
+
+                                               497
+                                      00:29:51 --> 00:29:53
+                                          [tense music]
+
+                                               498
+                                      00:29:55 --> 00:29:56
+                                            [Vi] So…
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                             P a g e | 47
+
+
+                                           499
+                                  00:29:57 --> 00:29:59
+                                We got a deal, pretty boy?
+
+                                           500
+                                  00:30:00 --> 00:30:03
+                                      [eerie music]
+
+                                           501
+                                  00:30:10 --> 00:30:12
+                                     [train hisses]
+
+                                           502
+                                  00:30:13 --> 00:30:15
+                                     [train rumbles]
+
+                                           503
+                                  00:30:15 --> 00:30:17
+                                    [train chugging]
+
+                                           504
+                                  00:30:19 --> 00:30:20
+                                      -[gun cocks]
+                                        -[gasps]
+
+                                           505
+                                  00:30:22 --> 00:30:25
+                                     [train crashes]
+
+                                           506
+                                  00:30:26 --> 00:30:29
+                                  [Enforcers clamoring]
+
+                                           507
+                                  00:30:35 --> 00:30:36
+                                 -[Enforcer 1] Come on.
+                                    -Over the bridge.
+
+                                           508
+                                  00:30:36 --> 00:30:38
+                                      [rifles cock]
+
+                                           509
+                                  00:30:39 --> 00:30:40
+                                  [Enforcer 1] Secured!
+
+                                           510
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                P a g e | 48
+
+
+                                   00:30:40 --> 00:30:43
+                                    [mysterious music]
+
+                                            511
+                                   00:30:44 --> 00:30:45
+                                   [Enforcer 2] Get back!
+
+                                             512
+                                    00:30:45 --> 00:30:46
+                                [Enforcer 3] You little punk.
+
+                                            513
+                                   00:30:46 --> 00:30:48
+                                      [boy grumbles]
+
+                                            514
+                                   00:30:51 --> 00:30:53
+                                    [Enforcer 3 grunts]
+                                           Hey!
+
+                                            515
+                                   00:30:55 --> 00:30:57
+                                       -[boy grunts]
+                                      -[alarm blares]
+
+                                            516
+                                   00:30:59 --> 00:31:01
+                                    [thug 1 shrieking]
+
+                                            517
+                                   00:31:02 --> 00:31:05
+                                     [thug 2 retching]
+
+                                             518
+                                    00:31:10 --> 00:31:13
+                                [Enforcers breathing heavily]
+
+                                            519
+                                   00:31:14 --> 00:31:15
+                                         -[gasps]
+                                    -[thugs screaming]
+
+                                            520
+                                   00:31:15 --> 00:31:17
+                                   [Enforcers screaming]
+
+                                            521
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                        P a g e | 49
+
+
+                                00:31:17 --> 00:31:18
+                                     [gunshots]
+
+                                         522
+                                00:31:18 --> 00:31:20
+                                [thugs shriek, grunt]
+
+                                         523
+                                00:31:24 --> 00:31:26
+                                -[Enforcer 4 groans]
+                                -[gunshots continue]
+
+                                         524
+                                00:31:28 --> 00:31:30
+                                      -[cocks]
+                                        -Hmm.
+
+                                         525
+                                00:31:30 --> 00:31:31
+                                -[Enforcer 5 groans]
+                                     -[pierces]
+
+                                         526
+                                00:31:31 --> 00:31:34
+                                   [grunts, roars]
+
+                                         527
+                                00:31:34 --> 00:31:36
+                                 [tense rock music]
+
+                                         528
+                                00:31:36 --> 00:31:38
+                                       [pants]
+
+                                         529
+                                00:31:41 --> 00:31:42
+                                     [screeches]
+
+                                         530
+                                00:31:47 --> 00:31:48
+                                    [Vi screams]
+
+                                         531
+                                00:31:55 --> 00:31:56
+                                     [chuckles]
+
+                                        532
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                        P a g e | 50
+
+
+                                00:31:57 --> 00:31:59
+                                      [Vi] Hmm.
+
+                                         533
+                                00:32:06 --> 00:32:07
+                                      [grunts]
+
+                                         534
+                                00:32:15 --> 00:32:16
+                                    [Vi screams]
+
+                                         535
+                                00:32:17 --> 00:32:18
+                                    [Jayce yells]
+
+                                         536
+                                00:32:19 --> 00:32:20
+                                      [grunts]
+
+                                         537
+                                00:32:22 --> 00:32:23
+                                      [shouts]
+
+                                         538
+                                00:32:34 --> 00:32:36
+                                     [grumbles]
+
+                                         539
+                                00:32:37 --> 00:32:39
+                                      [shouts]
+
+                                         540
+                                00:32:41 --> 00:32:43
+                                     [Vi groans]
+
+                                         541
+                                00:32:44 --> 00:32:47
+                                     [grunting]
+
+                                         542
+                                00:32:48 --> 00:32:49
+                                     [grumbles]
+
+                                         543
+                                00:32:50 --> 00:32:51
+                                       [yells]
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                        P a g e | 51
+
+
+                                         544
+                                00:32:53 --> 00:32:55
+                                     [grunting]
+
+                                         545
+                                00:33:10 --> 00:33:11
+                                    [explosions]
+
+                                         546
+                                00:33:13 --> 00:33:15
+                                     [shouting]
+
+                                         547
+                                00:33:22 --> 00:33:23
+                                     [snarling]
+
+                                         548
+                                00:33:26 --> 00:33:27
+                                      [grunts]
+
+                                         549
+                                00:33:29 --> 00:33:33
+                                  [heavy breathing]
+
+                                         550
+                                00:33:33 --> 00:33:34
+                                      [coughs]
+
+                                         551
+                                00:33:39 --> 00:33:41
+                                 [breathing shakily]
+
+                                         552
+                                00:33:41 --> 00:33:44
+                                   [wind whooshes]
+
+                                         553
+                                00:33:44 --> 00:33:46
+                                     [loud thud]
+
+                                         554
+                                00:33:52 --> 00:33:55
+                                  [device crackles]
+
+                                         555
+                                00:33:56 --> 00:33:59
+                                   [ominous music]
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                              P a g e | 52
+
+
+
+                                           556
+                                  00:34:10 --> 00:34:13
+                                  [ominous music rises]
+
+                                            557
+                                   00:34:13 --> 00:34:16
+                                [breathing shakily, groans]
+
+                                           558
+                                  00:34:18 --> 00:34:21
+                                   [breathes heavily]
+
+                                           559
+                                  00:34:22 --> 00:34:25
+                                        [gasping]
+
+                                           560
+                                  00:34:31 --> 00:34:33
+                                        [exhales]
+
+                                           561
+                                  00:34:33 --> 00:34:35
+                                         [sighs]
+
+                                           562
+                                  00:34:37 --> 00:34:41
+                                   [suspenseful music]
+
+                                           563
+                                  00:34:44 --> 00:34:47
+                                      [boy panting]
+
+                                           564
+                                  00:34:51 --> 00:34:52
+                                         [sighs]
+
+                                           565
+                                  00:34:59 --> 00:35:02
+                                [suspenseful music rises]
+
+                                           566
+                                  00:35:04 --> 00:35:07
+                                    [water dropping]
+
+                                           567
+                                  00:35:09 --> 00:35:14
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                P a g e | 53
+
+
+                                [suspenseful music continues]
+
+                                            568
+                                   00:35:31 --> 00:35:32
+                                         [exhales]
+
+                                            569
+                                   00:35:44 --> 00:35:48
+                                        [inaudible]
+
+                                            570
+                                   00:36:08 --> 00:36:11
+                                       [eerie music]
+
+                                            571
+                                   00:36:11 --> 00:36:13
+                                          [gasps]
+
+                                            572
+                                   00:36:20 --> 00:36:22
+                                          [gasps]
+
+                                            573
+                                   00:36:25 --> 00:36:28
+                                      [somber music]
+
+                                            574
+                                   00:37:14 --> 00:37:18
+                                   [somber music rises]
+
+                                            575
+                                   00:38:22 --> 00:38:24
+                                    [somber music ends]
+
+
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+                                                                         P a g e | 54
+
+
+
+
+                          This transcript is for educational use only.
+                                  Not to be sold or auctioned.
+
+
+
+
+8FLiX.com TRANSCRIPT DATABASE
+FOR EDUCATIONAL USE ONLY
+NOT FOR SALE OR AUCTION
+

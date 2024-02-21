@@ -20,9 +20,18 @@ while True:
 '''
 
 # Starting the code
-with open('Arcane-transcript-104-Happy-Progress-Day.txt', 'r') as EpisodeOne:
-  EpOneLines = EpisodeOne.readlines()
-  JinxEpOne = []
-  for EpisodeOne in EpOneLines:#yo
-    Line = BLANK.strip().split(",")#for here code to make lines that dont start with jinx go away
-    JinxEpOne.append(Line)
+with open('Arcane-transcript-104-Happy-Progress-Day.txt', 'r', encoding='utf-8') as EpisodeOne:
+    EpOneLines = EpisodeOne.readlines()
+    JinxEpOne = []
+    IsJinxLine = False
+    for line in EpOneLines:
+        if line.strip().startswith("[") and "-[Jinx]" in line:
+            IsJinxLine = True
+            JinxLine = line.strip()
+        elif IsJinxLine and line.strip():
+            JinxEpOne.append(JinxLine)
+            IsJinxLine = False
+    for JinxLine in JinxEpOne:
+        JinxEpOne.append(JinxLine)
+
+print(JinxEpOne)

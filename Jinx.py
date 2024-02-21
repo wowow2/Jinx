@@ -1,5 +1,6 @@
 while True:
-    FavChar = input("Who is your fav Arcane character?").upper
+    FavChar = input("Who is your fav Arcane character?")
+    FavChar = FavChar.upper()
     if FavChar == "JINX":
         print("That's mine too")
         break

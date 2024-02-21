@@ -23,6 +23,6 @@ while True:
 with open('Arcane-transcript-104-Happy-Progress-Day.txt', 'r') as EpisodeOne:
   EpOneLines = EpisodeOne.readlines()
   JinxEpOne = []
-  for EpisodeOne in EpOneLines:
+  for EpisodeOne in EpOneLines:#yo
     Line = BLANK.strip().split(",")#for here code to make lines that dont start with jinx go away
     JinxEpOne.append(Line)
